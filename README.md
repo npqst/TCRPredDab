@@ -4,7 +4,7 @@ Dataset of TCR structure predictions made with TCRBuilder2+.
 To download the dataset: 
 [https://doi.org/10.5281/zenodo.10854756](https://doi.org/10.5281/zenodo.10854756). 
 
-The dataset also contains the seqeunce files as a linked list contained in a text file. The index, i.e. row number of the amino acid sequence corresponds to the number in the TCR predictions filename.
+The dataset also contains the sequence files as a linked list contained in a text file. The index, i.e. row number of the amino acid sequence corresponds to the number in the TCR predictions filename.
 If you would like to pre-view this list without downloading the entire dataset, it is contained in this repository.
 
 If you use TCRPredDab in your research please cite: 
